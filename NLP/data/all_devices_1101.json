@@ -1,0 +1,107 @@
+[
+  {
+    "unique_id": "2",
+    "appliance_type": "SHD_CounterDrawer",
+    "position": "(-1.0, 1.0, -20.5)"
+  },
+  {
+    "unique_id": "20",
+    "appliance_type": "SHD_Freezer",
+    "position": "(2.0, 0.8, -24.4)"
+  },
+  {
+    "unique_id": "13",
+    "appliance_type": "SHD_Toaster",
+    "position": "(0.1, 1.6, -24.8)"
+  },
+  {
+    "unique_id": "19",
+    "appliance_type": "SHD_Camera",
+    "position": "(-0.2, 2.2, -20.7)"
+  },
+  {
+    "unique_id": "6",
+    "appliance_type": "SHD_ExtractorFan",
+    "position": "(-2.1, 2.9, -22.5)"
+  },
+  {
+    "unique_id": "11",
+    "appliance_type": "SHD_RubbishBin",
+    "position": "(2.8, 0.9, -24.3)"
+  },
+  {
+    "unique_id": "12",
+    "appliance_type": "SHD_CoffeeMachine",
+    "position": "(0.7, 1.6, -24.8)"
+  },
+  {
+    "unique_id": "8",
+    "appliance_type": "SHD_CounterSink",
+    "position": "(-1.0, 1.2, -24.5)"
+  },
+  {
+    "unique_id": "7",
+    "appliance_type": "SHD_DishWasher",
+    "position": "(1.0, 1.0, -24.5)"
+  },
+  {
+    "unique_id": "17",
+    "appliance_type": "SHD_Lightswitch",
+    "position": "(1.3, 1.6, -25.0)"
+  },
+  {
+    "unique_id": "1",
+    "appliance_type": "SHD_Cabinet",
+    "position": "(-2.2, 2.9, -20.5)"
+  },
+  {
+    "unique_id": "21",
+    "appliance_type": "SHD_Boombox",
+    "position": "(0.3, 1.7, -20.5)"
+  },
+  {
+    "unique_id": "18",
+    "appliance_type": "SHD_Light",
+    "position": "(-0.2, 3.1, -22.1)"
+  },
+  {
+    "unique_id": "15",
+    "appliance_type": "SHD_Microwave",
+    "position": "(-2.1, 1.6, -23.7)"
+  },
+  {
+    "unique_id": "10",
+    "appliance_type": "SHD_Oven",
+    "position": "(-2.0, 1.1, -22.5)"
+  },
+  {
+    "unique_id": "3",
+    "appliance_type": "SHD_CounterDrawer",
+    "position": "(-2.0, 1.0, -21.5)"
+  },
+  {
+    "unique_id": "9",
+    "appliance_type": "SHD_CounterDrawer",
+    "position": "(0.0, 1.0, -24.5)"
+  },
+  {
+    "unique_id": "5",
+    "appliance_type": "SHD_Cabinet",
+    "position": "(0.5, 2.9, -24.7)"
+  },
+  {
+    "unique_id": "14",
+    "appliance_type": "SHD_CounterDrawer",
+    "position": "(0.0, 1.0, -20.5)"
+  },
+  {
+    "unique_id": "4",
+    "appliance_type": "SHD_Cabinet",
+    "position": "(-0.5, 2.9, -24.7)"
+  },
+  {
+    "unique_id": "16",
+    "appliance_type": "SHD_Camera",
+    "position": "(-2.0, 1.6, -24.6)"
+  }
+]

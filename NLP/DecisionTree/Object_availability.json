@@ -1,0 +1,37 @@
+{
+    "SHD_Microwave":["open", "close", "start", "stop"],
+
+    "SHD_Light":[],
+
+    "SHD_Oven":["open", "close"],
+
+    "SHD_Rice_Cooker":[],
+
+    "SHD_Refrigerator":[],
+
+    "SHD_Stove":[],
+
+    "SHD_CounterDrawer":[],
+
+    "SHD_Toaster":[],
+
+    "SHD_DishWasher":[],
+
+    "SHD_RubbishBin":[],
+
+    "SHD_CoffeeMachine":[],
+
+    "SHD_ExtractorFan":[],
+
+    "SHD_Cabinet":[],
+
+    "SHD_Camera":[],
+
+    "SHD_CounterSink":[],
+
+    "SHD_Boombox":[],
+
+    "SHD_Lightswitch":[],
+
+    "SHD_Freezer": []
+}
